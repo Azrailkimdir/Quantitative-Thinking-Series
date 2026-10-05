@@ -1,5 +1,9 @@
 # Quantitative Thinking Series
 
+![Quantitative Thinking](QTV01.jpg)
+
+Applied Mathematics • Statistics • Engineering Analysis • Scientific Modeling
+
 A collection of quantitative reasoning, mathematics, statistics, engineering analysis, and scientific modeling projects that explore real-world scientific and engineering problems through data-driven thinking.
 
 ## Projects
