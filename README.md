@@ -9,24 +9,25 @@ A collection of quantitative reasoning, mathematics, statistics, engineering ana
 ## Projects
 
 ### Quantitative Thinking #1
-🔗 https://github.com/Azrailkimdir/Quantitative-Thinking-1
+🔗 [Quantitative-Thinking-1](https://github.com/Azrailkimdir/Quantitative-Thinking-1)
 
 Exploring why a 45° launch angle produces the maximum projectile range using mathematics, Excel-based analysis, and aerospace engineering principles.
 
 ### Quantitative Thinking #2
-🔗 https://github.com/Azrailkimdir/Quantitative-Thinking-2
+🔗 [Quantitative-Thinking-2](https://github.com/Azrailkimdir/Quantitative-Thinking-2)
 
 Investigating how gravity influences weight on Earth, the Moon, and Mars through mathematical modeling, Excel analysis, and space science concepts.
 
 ### Quantitative Thinking #3
-🔗 https://github.com/Azrailkimdir/Quantitative-Thinking-3
+🔗 [Quantitative-Thinking-3](https://github.com/Azrailkimdir/Quantitative-Thinking-3)
 
 Analyzing how airspeed affects lift generation using mathematics, Excel modeling, and aerospace engineering fundamentals.
 
 ### Quantitative Thinking #4
-🔗 https://github.com/Azrailkimdir/Quantitative-Thinking-4
+🔗 [Quantitative-Thinking-4](https://github.com/Azrailkimdir/Quantitative-Thinking-4)
 
 Examining how gravitational differences between Earth and the Moon influence projectile motion and range through quantitative analysis and space science applications.
+``
 
 ## Skills & Topics
 
