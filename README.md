@@ -1,29 +1,50 @@
 # Quantitative Thinking Series
 
-A collection of quantitative reasoning, mathematics, statistics, engineering analysis, and scientific modeling projects.
+A collection of quantitative reasoning, mathematics, statistics, engineering analysis, and scientific modeling projects that explore real-world scientific and engineering problems through data-driven thinking.
 
 ## Projects
 
 ### Quantitative Thinking #1
-[Quantitative-Thinking-1](https://github.com/Azrailkimdir/Quantitative-Thinking-1)
+🔗 https://github.com/Azrailkimdir/Quantitative-Thinking-1
 
-Exploring why 45° produces the maximum projectile range through Excel-based analysis and aerospace fundamentals.
+Exploring why a 45° launch angle produces the maximum projectile range using mathematics, Excel-based analysis, and aerospace engineering principles.
 
 ### Quantitative Thinking #2
-[Quantitative-Thinking-2](https://github.com/Azrailkimdir/Quantitative-Thinking-2)
+🔗 https://github.com/Azrailkimdir/Quantitative-Thinking-2
 
-Exploring how gravity affects weight on Earth, the Moon, and Mars using mathematics, Excel, and space science fundamentals.
+Investigating how gravity influences weight on Earth, the Moon, and Mars through mathematical modeling, Excel analysis, and space science concepts.
 
 ### Quantitative Thinking #3
-[Quantitative-Thinking-3](https://github.com/Azrailkimdir/Quantitative-Thinking-3)
+🔗 https://github.com/Azrailkimdir/Quantitative-Thinking-3
 
-Exploring how airspeed affects lift force using mathematics, Excel, and aerospace engineering fundamentals.
+Analyzing how airspeed affects lift generation using mathematics, Excel modeling, and aerospace engineering fundamentals.
 
 ### Quantitative Thinking #4
-[Quantitative-Thinking-4](https://github.com/Azrailkimdir/Quantitative-Thinking-4)
+🔗 https://github.com/Azrailkimdir/Quantitative-Thinking-4
 
-Exploring how gravity affects projectile range on Earth and the Moon using mathematics, Excel, and space science fundamentals.
+Examining how gravitational differences between Earth and the Moon influence projectile motion and range through quantitative analysis and space science applications.
 
-## Author
+## Skills & Topics
 
-Sarp AKAR
+- Quantitative Reasoning
+- Applied Mathematics
+- Statistics
+- Engineering Analysis
+- Aerospace Fundamentals
+- Scientific Modeling
+- Excel-Based Simulations
+- Data Interpretation
+- STEM Problem Solving
+
+## Purpose
+
+The Quantitative Thinking Series was created to strengthen analytical thinking skills by connecting mathematics and scientific principles with real-world engineering and aerospace applications.
+
+---
+
+### Author
+
+**Sarp AKAR**
+
+*Always Curious. Always Learning.*
+
