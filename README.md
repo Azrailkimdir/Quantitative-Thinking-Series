@@ -27,7 +27,6 @@ Analyzing how airspeed affects lift generation using mathematics, Excel modeling
 🔗 [Quantitative-Thinking-4](https://github.com/Azrailkimdir/Quantitative-Thinking-4)
 
 Examining how gravitational differences between Earth and the Moon influence projectile motion and range through quantitative analysis and space science applications.
-``
 
 ## Skills & Topics
 
